@@ -23,7 +23,7 @@ My repositories are archaic e-artifacts that will be mined in the distant future
 I guarantee you that if you follow me and tell all of your 5 billion friends to do so, I will crash Github. 
 I believe **T-Series** currently holds the most followers on Github, whom I hope to surpass.
 <br><br>
-![enter image description here](https://i.kym-cdn.com/entries/icons/mobile/000/027/020/unknown.jpg)
+<img src="https://i.kym-cdn.com/entries/icons/mobile/000/027/020/unknown.jpg" width="500"/>
 
 
 - 🔭 I’m currently working on: something related to Chess ;)
