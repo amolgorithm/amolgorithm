@@ -7,6 +7,7 @@
   </a>
   <br>
   </div> 
+  <img src="https://komarev.com/ghpvc/?username=amolgorithm&style=flat-square&color=blue" alt=""/>
   
   ## Hello World, It's Amolgorithm 👋
   
