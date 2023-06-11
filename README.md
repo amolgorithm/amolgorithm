@@ -9,7 +9,7 @@
   </div> 
   <img src="https://komarev.com/ghpvc/?username=amolgorithm&style=flat-square&color=blue" alt=""/>
   
-  ## Hello World, It's Amolgorithm 👋
+  ## Hello World, It's Amolgorithm <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40"/>
 </div>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=open+sans&weight=900&size=22&duration=3000&pause=1000&color=CF0000&multiline=true&width=800&height=100&separator=%3D&lines=%23include+%3Camolgorithm%3E%3Dstd%3A%3Afor_each(std%3A%3Aviewers%2C+%5B%5D()+%7B+std%3A%3Acout+%3C%3C+%22Welcome!%22+%7D);)](https://git.io/typing-svg)
