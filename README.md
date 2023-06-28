@@ -36,7 +36,6 @@ I believe **T-Series** currently holds the most followers on Github, whom I hope
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="threejs" alt="threejs" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="rust" alt="rust" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jq" alt="jq" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angjs" alt="angjs" width="70" height="70"/>&nbsp;
@@ -44,9 +43,7 @@ I believe **T-Series** currently holds the most followers on Github, whom I hope
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="rpi" alt="rpi" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="ard" alt="ard" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ex" alt="ex" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pyc" alt="pyc" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="cv" alt="cv" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="atom" alt="atom" width="70" height="70"/>&nbsp;
@@ -55,7 +52,5 @@ I believe **T-Series** currently holds the most followers on Github, whom I hope
 <br>
 
 - 🔭 I’m currently working on: something related to Chess ;)
-- 🌱 I’m currently learning advanced C++
-- 💬 Ask me about: JS, C++, Python, Algorithmic Problems
-- 😄 Pronouns: He/him/his/Amolgorithm 
+- 😄 Pronouns: He/him/his
 - ⚡ Fun fact: Octopi have three hearts.
