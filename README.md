@@ -49,8 +49,11 @@ I believe **T-Series** currently holds the most followers on Github, whom I hope
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="atom" alt="atom" width="70" height="70"/>&nbsp;
 </div>
 <br>
-- 🔭 I’m currently working on: something related to Chess ;)
 <br>
+
+- 🔭 I’m currently working on:
+  - Something related to Chess
+  - Something related to ChatGPT
+  - C++ library
 - 😄 Pronouns: He/him/his
-<br>
 - ⚡ Fun fact: Octopi have three hearts.
