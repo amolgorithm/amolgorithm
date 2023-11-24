@@ -13,16 +13,14 @@
 </div>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=open+sans&weight=900&size=22&duration=3000&pause=1000&color=CF0000&multiline=true&width=800&height=100&separator=%3D&lines=%23include+%3Camolgorithm%3E%3Dstd%3A%3Afor_each(std%3A%3Aviewers%2C+%5B%5D()+%7B+std%3A%3Acout+%3C%3C+%22Welcome!%22+%7D);)](https://git.io/typing-svg)
-  
-**IMPORTANT NOTE:**  It's important to specify that by "World", I mean the coordinate in the universe at which you are using your optical organ to read this. By the time somebody finally reads this, Elon Musk probably bought Github and got human civilization on Mars. Or we could have taken the other route where ChatGPT secretly built an AI army to conquer humanity and use it as an energy source (**The Matrix is REAL!** 0_0). 
+
+**IMPORTANT NOTE:**  It's important to specify that by "Hello _World_", I mean the coordinate in the universe at which you are using your optical organ to read this. By the time somebody finally reads this, Elon Musk probably bought Github and got human civilization on Mars. Or we could have taken the other route where ChatGPT secretly built an AI army to conquer humanity and use it as an energy source (**The Matrix is REAL!** 0_0). 
 
 **Copyright Info:**  I am not the dog in my profile pic, nor do I own that lifeform. It is an analogy of me programming. The dog in the profile pic is obviously not me.
 
-I am Amolgorithm. Sometimes, I am an O(1) algorithm and sometimes I am an O(n^n) algorithm. I am not a reproduced bot created using the ChatGPT API. As an AI language supermodel, I would not be able to type what I have thus far. Therefore, via proof through contradiction, I am indeed human... or a canine?
+I am Amolgorithm. Sometimes, I am an O(log n) algorithm and sometimes I am an unrealistic O(n^n) algorithm. I am not an AI. As an AI language supermodel, I would not be able to express ideas that I have expressed thus far. Therefore, by proof via contradiction, I am indeed homo sapien.
 
-My repositories are archaic e-artifacts that will be mined in the distant future by e-archalogists.
-I guarantee you that if you follow me and tell all of your 5 billion friends to do so, I will crash Github. 
-I believe **T-Series** currently holds the most followers on Github, whom I hope to surpass.
+I guarantee you that if you follow me and tell all of your 6 billion friends to do so, Github will crash.
 <br><br>
 ## :hammer_and_wrench: Languages and Tools :
 <div>
