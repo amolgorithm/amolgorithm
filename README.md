@@ -16,7 +16,7 @@
   
 **IMPORTANT NOTE:**  It's important to specify that by "World", I mean the coordinate in the universe at which you are using your optical organ to read this. By the time somebody finally reads this, Elon Musk probably bought Github and got human civilization on Mars. Or we could have taken the other route where ChatGPT secretly built an AI army to conquer humanity and use it as an energy source (**The Matrix is REAL!** 0_0). 
 
-**Copyright Info:**  I am not the dog in my profile pic, nor do I own that lifeform. It is an analogy of me programming. The dog in the profile pic is obviously not me. It doesn't even look like me; I don't wear glasses.
+**Copyright Info:**  I am not the dog in my profile pic, nor do I own that lifeform. It is an analogy of me programming. The dog in the profile pic is obviously not me.
 
 I am Amolgorithm. Sometimes, I am an O(1) algorithm and sometimes I am an O(n^n) algorithm. I am not a reproduced bot created using the ChatGPT API. As an AI language supermodel, I would not be able to type what I have thus far. Therefore, via proof through contradiction, I am indeed human... or a canine?
 
