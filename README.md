@@ -16,7 +16,6 @@
 
 Hello.
 
-I guarantee you that if you follow me and tell all of your 6 billion friends to do so, Github will crash.
 <br><br>
 ## :hammer_and_wrench: Languages and Tools :
 <div>
