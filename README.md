@@ -16,7 +16,6 @@
 
 Hello.
 
-<br><br>
 ## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="70" height="70"/>&nbsp;
