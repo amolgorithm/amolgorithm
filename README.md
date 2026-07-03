@@ -1,10 +1,10 @@
 <div align="center">
 
-# Amol
+# Hello.
 
-### Computer Science • Mathematics • Software Engineering
+### Computer Science • Mathematics
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python;C%2B%2B;Flutter;Node.js;Algorithms;Building+Interesting+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python;C%2B%2B;C++;Flutter;Node.js;Algorithms;Building+Strange+Things"/>
 
 <br>
 
