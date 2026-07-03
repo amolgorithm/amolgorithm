@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello.
+# hey. i'm amolgorithm.
 
 ### Computer Science • Mathematics
 
@@ -18,7 +18,7 @@
 
 ## Tech
 
-<img src="https://skillicons.dev/icons?i=python,cpp,dart,flutter,nodejs,git,github,vscode,linux&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,flutter,nodejs,git,vscode,linux&perline=9"/>
 
 </div>
 
@@ -28,7 +28,6 @@
 
 ## Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amolgorithm&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=amolgorithm&theme=github-dark-blue&hide_border=true"/>
 
@@ -36,7 +35,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolgorithm&layout=compact&theme=github_dark_dimmed&hide_border=true"/>
 
 </div>
 
